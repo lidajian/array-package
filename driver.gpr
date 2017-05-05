@@ -1,0 +1,3 @@
+project driver is
+    for Source_Dirs use (".");
+end driver;

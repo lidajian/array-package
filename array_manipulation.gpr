@@ -1,0 +1,3 @@
+project array_manipulation is
+    for Source_Dirs use (".");
+end array_manipulation;
